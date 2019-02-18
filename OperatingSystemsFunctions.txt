@@ -1,0 +1,1 @@
+The operating system serves as a connection bewteen the user interface and computer hardware. It operates imput and output devices. It also uses passwords to protect users data.
