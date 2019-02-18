@@ -1,2 +1,3 @@
 The operating system serves as a connection bewteen the user interface and computer hardware. It operates imput and output devices. It also uses passwords to protect users data.
 The operating system carries out various files management activities. A file management is organized into directories for easy navigation. Some of those activitiess are but not limited to tracking information stored, users access settings to name those.
+The operating system has a memory management. Memory management refers to management of main memory. The main memory is a large array of bytes where each byte has its own address.
