@@ -1,1 +1,2 @@
 The operating system serves as a connection bewteen the user interface and computer hardware. It operates imput and output devices. It also uses passwords to protect users data.
+The operating system carries out various files management activities. A file management is organized into directories for easy navigation. Some of those activitiess are but not limited to tracking information stored, users access settings to name those.
